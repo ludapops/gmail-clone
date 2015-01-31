@@ -1,0 +1,75 @@
+.header {
+	background-color: rgba(204, 204, 204, 0.28);
+	
+}
+
+.header__rest{
+	display: inline;
+
+}
+
+.header__userInfo {
+	/*float: right;*/
+	margin-top: 25px;
+}
+
+.header__input{
+	margin: 20px 10px 0px -10px;
+}
+
+.middleStuff {
+	padding-top: 5px;
+}
+
+.spacer {
+	text-align: left;
+}
+
+.middleButtons {
+	background-color: rgba(204, 204, 204, 0.28);
+	width: 60px;
+	height: 32px;
+}
+
+
+.gmailToggle{
+	font-size: 1.5em;
+	color: rgb(192, 60, 60);
+	
+}
+
+.emails {
+	padding-top: 10px;
+	border-top:  solid;
+	
+	border-color: #ccc;
+}
+
+.composeBtn {
+	padding: 5px 20px
+}
+
+input[type=checkbox].inputCheck {
+	margin-right: 10px;
+}
+
+.email-List {
+	padding-left: 0px;
+}
+
+.email-panel {
+	padding: 0px 15px
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.email-area{
+	margin-top: 15px;
+}
+
+.sendBtn {
+	background-color: #2e6da4;
+	width: 56%;
+}
